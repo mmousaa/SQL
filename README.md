@@ -2,9 +2,9 @@
 
 **Here are some of SQL queries demonstrating  analysis skills**
 
-[![SQL](https://img.shields.io/badge/SQL-Expert-blue)](https://github.com/mmousaa/Projects/search?l=sql)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Proficient-green)](https://github.com/mmousaa/Projects)
-[![Last Updated](https://img.shields.io/github/last-commit/mmousaa/Projects)](https://github.com/mmousaa/Projects/commits/main)
+[![SQL Expert](https://img.shields.io/badge/SQL-Expert-blue)](https://github.com/mmousaa/SQL/blob/main/world_events_queries.sql)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Proficient-green)](https://github.com/mmousaa/SQL)
+[![Last Updated](https://img.shields.io/github/last-commit/mmousaa/SQL)](https://github.com/mmousaa/SQL/commits/main)
 
 ## 🗂 Project Overview
 This repository contains SQL queries analyzing historical world events data, showcasing:
