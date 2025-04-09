@@ -1,6 +1,6 @@
 # 📊 SQL Portfolio: World Events Analysis
 
-**Professional SQL queries demonstrating data analysis skills**
+**Here are some of SQL queries demonstrating  analysis skills**
 
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-green)
